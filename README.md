@@ -1,0 +1,2 @@
+# Optimizing-Public-Transit-Operations---An-Exploratory-Data-Analysis
+Exploratory Data Analysis (EDA) project focused on optimizing public transit operations for MetroMove Transit Solutions. The analysis explores passenger usage patterns, fare structures, and performance metrics across buses, trains, ferries, and trams to derive data-driven recommendations for improving efficiency and customer experience.
