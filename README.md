@@ -5,7 +5,7 @@ The project identifies insights and inefficiencies in passenger behavior, fare s
 
 <img width="2560" height="1770" alt="image" src="https://github.com/user-attachments/assets/e05a5498-342f-4719-abfb-c1118f6e989f" />
 
-# 📊 Project Overview
+## 📊 Project Overview
 
 - **Organization**: MetroMove Transit Solutions
 - **Domain**: Transportation Analytics
@@ -13,14 +13,14 @@ The project identifies insights and inefficiencies in passenger behavior, fare s
 - **Goal**: Recommend strategies to improve operational efficiency and customer satisfaction through data-driven insights.
 
 
-# 🎯 Key Objectives
+## 🎯 Key Objectives
 - Identify passenger usage patterns across different transport modes (Bus, Train, Ferry, Tram).
 - Evaluate performance metrics — passenger count, trip duration, and revenue.
 - Analyze the relationship between fares, trip durations, and passenger counts.
 - Recommend strategies to improve operational efficiency and customer satisfaction through data-driven insights.
 
 
-# 🧩 Dataset Description
+## 🧩 Dataset Description
 - Trip Date:	Date of each trip
 - Mode of Transport:	Bus, Train, Ferry, or Tram
 - Passenger Count:	Number of passengers per trip
@@ -33,14 +33,13 @@ The project identifies insights and inefficiencies in passenger behavior, fare s
 - Total Revenue: 1,248,668 units
 
 
-# 🧮 Tools & Libraries Used
-- Python: pandas, numpy, matplotlib, seaborn
-- Jupyter Notebook: Data cleaning, visualization, insights generation
-- Excel: Houses Raw dataset
-- PowerPoint: Final presentation of results and recommendations
+## 🧮 Tools & Libraries Used
+- **Language:** Python
+- **Libraries:** pandas · numpy · matplotlib · seaborn
+- **Tools:** Jupyter Notebook, Powerpoint, Microsoft Excel
 
 
-# 🔍 Key Insights
+## 🔍 Key Insights
 **Passenger Behavior:**
 - Trams attracted the highest average passengers per trip; trains had the least.
 - Price sensitivity observed — Slightly higher fares correlate with slightly lower ridership.
@@ -61,7 +60,7 @@ The project identifies insights and inefficiencies in passenger behavior, fare s
 - suggesting a flat-rate or zonal pricing model rather than distance-based.
 
 
-# 💡 Recommendations:
+## 💡 Recommendations:
 - **Revise Fare Policy:** Align fare structures with trip duration or distance.
 - **Optimize Capacity Allocation:** Increase the number of trams and ferries — both popular and cost-efficient.
 - **Promote Ferries:** Fastest and cheapest per minute — strong candidate for marketing campaigns.
