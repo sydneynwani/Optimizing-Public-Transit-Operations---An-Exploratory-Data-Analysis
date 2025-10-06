@@ -1,4 +1,4 @@
-# 🚌 Optimizing Public Transit Operations — Exploratory Data Analysis
+# 🚌 Optimizing Public Transit Operations - An Exploratory Data Analysis
 
 This repository presents an end-to-end Exploratory Data Analysis (EDA) project based on public transportation trip data from MetroMove Transit Solutions.
 The project identifies insights and inefficiencies in passenger behavior, fare structures, and transport mode performance to support data-driven operational improvements.
@@ -15,7 +15,7 @@ The project identifies insights and inefficiencies in passenger behavior, fare s
 
 ## 🎯 Key Objectives
 - Identify passenger usage patterns across different transport modes (Bus, Train, Ferry, Tram).
-- Evaluate performance metrics — passenger count, trip duration, and revenue.
+- Evaluate performance metrics - passenger count, trip duration, and revenue.
 - Analyze the relationship between fares, trip durations, and passenger counts.
 - Recommend strategies to improve operational efficiency and customer satisfaction through data-driven insights.
 
@@ -42,7 +42,7 @@ The project identifies insights and inefficiencies in passenger behavior, fare s
 ## 🔍 Key Insights
 **Passenger Behavior:**
 - Trams attracted the highest average passengers per trip; trains had the least.
-- Price sensitivity observed — Slightly higher fares correlate with slightly lower ridership.
+- Price sensitivity observed - Slightly higher fares correlate with slightly lower ridership.
 
 
 **Revenue:**
@@ -62,6 +62,6 @@ The project identifies insights and inefficiencies in passenger behavior, fare s
 
 ## 💡 Recommendations:
 - **Revise Fare Policy:** Align fare structures with trip duration or distance.
-- **Optimize Capacity Allocation:** Increase the number of trams and ferries — both popular and cost-efficient.
+- **Optimize Capacity Allocation:** Increase the number of trams and ferries - both popular and cost-efficient.
 - **Promote Ferries:** Fastest and cheapest per minute — strong candidate for marketing campaigns.
 - **Data Quality:** Improve data collection accuracy (especially trip date and time of departure)
